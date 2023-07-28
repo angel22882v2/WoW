@@ -1,27 +1,55 @@
 /**
- * @name Genshin Impact / Raiden Shogun v.3
- * @author TereruNaYo
- * @version auto updates
- * @description Theme was created in generator https://vsthemes.org/generator/
- * @source https://vsthemes.org/en/skins/discord/50703-genshin-impact-raiden-shogun.html
- * @authorLink https://vsthemes.org/user/TereruNaYo/
- * @authorId 65141
+ * @name Genshin Impact Summer Swimsuit
+ * @author SAD SHARK#5716
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232450
 */
-@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
 :root {
-    --transparencycolor: 0,0,0;
-    --transparencyalpha: 0.05;
-    --messagetransparency: 0.4;
-    --guildchanneltransparency: 0.1;
-    --memberlistransparency: 0;
-    --accentcolor: 216,176,238;
-    --background: url("https://vsthemes.org/uploads/posts/2022-03/1648213646_genshin-impact-raiden-shogun-wallpaper-1920x1200_6.webp");
-    --backdrop: rgba(0,0,0,0.2);
-    --backgroundblur: 0px;
-    --popoutblur: 0px;
-    --backdropblur: 0px;
-    --version1_0_5:none;
-    --backgroundsize: cover;
-    --popoutsize: cover;
-    --backdropsize: cover;
+  --background-image: url('https://i.imgur.com/8eAU1oU.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: transparent;
+  --popout-modal-blur: 2px;
+  --popout-modal-size: contain;
+  --popout-modal-position: 740;
+  --home-button-image: url('https://i.imgur.com/561X6FP.jpg');
+  --home-button-size: cover;
+  --home-button-position: center left;
+  --serverlist-brightness: 0.3;
+  --left-brightness: 0.3;
+  --middle-brightness: 0.3;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.3;
+  --gradient-primary: 10,219,247;
+  --gradient-secondary: 37,54,149;
+  --link-colour: #FFFFFF;
+  --scrollbar-colour: rgb(2,1,1,0.05);
+  --gradient-direction: 0deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 10px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-width: 2px;
+  --rs-avatar-shape: 34%;
+  --rs-online-color: #E000F1;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
 }
