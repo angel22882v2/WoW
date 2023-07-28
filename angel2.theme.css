@@ -1,27 +1,53 @@
 /**
- * @name Yae Miko - Genshin v.2
- * @author TereruNaYo
- * @version auto updates
- * @description Тема создана в генераторе https://vsthemes.org/generator/
- * @source https://vsthemes.org/skins/discord/50093-yae-miko-genshin-v1.html
- * @authorLink https://vsthemes.org/user/TereruNaYo/
- * @authorId 65141
+* @name Keqing
+* @version 9.0.1 
+* @description Genshin Impact: Keqing
+* @author Kiisara
+* @Discord Server Where u can contact me:https://discord.gg/cAGFYz8H9m
 */
-@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 :root {
-    --transparencycolor: 0,0,0;
-    --transparencyalpha: 0.15;
-    --messagetransparency: 0.5;
-    --guildchanneltransparency: 0.2;
-    --memberlistransparency: 0;
-    --accentcolor: 233,145,238;
-    --background: url("https://vsthemes.org/uploads/posts/2022-02/1645008250_1211480.webp");
-    --backdrop: rgba(0,0,0,0.2);
-    --backgroundblur: 0px;
-    --popoutblur: 0px;
-    --backdropblur: 0px;
-    --version1_0_5:none;
-    --backgroundsize: cover;
-    --popoutsize: cover;
-    --backdropsize: cover;
-}
+--background-image: url('https://cdn.discordapp.com/attachments/1009087523441618985/1133125432091361330/keqing_in_purple_background_hd_genshin_impact_2-1920x1080_1.jpg');
+  --background-image-size: cover;
+  --background-image-position: center center;
+  --popout-modal-image: url('https://cdn.discordapp.com/attachments/1120315948537225246/1133114766672531456/1679177513_chillywilly-club-p-ke-tsin-genshin-art-vokntakte-devushki-4.png');
+  --popout-modal-blur: 0px;
+  --popout-modal-brigthness: var(--right-brightness);
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://cdn-longterm.mee6.xyz/plugins/welcome/images/1120132710418096179/114c7bfc0cae30caf17f8f798795dc12820b9c205fc798c6b98681edd81d0e5a.gif');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.2;
+  --middle-brightness: 0.1;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.3;
+  --gradient-primary: 148,187,233,100;
+  --gradient-secondary: 2,0,36,100;
+  --scrollbar-colour: rgb(126, 0, 189);
+  --link-colour: #9500ff;
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: 'Arial';
+  --window-padding: 5px;
+  --window-roundness: 20px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 42px;
+  --HSL-server-spacing: 15px;
+  --rs-small-spacing: 1px;
+  --rs-large-spacing: 3px;
+  --rs-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00f7ff;
+  --rs-idle-color: #b700ff;
+  --rs-dnd-color: #ff0000;
+  --rs-offline-color: #9500ff;
+  --rs-streaming-color: #9500ff;
+  --rs-invisible-color: #747f8d;
+  --text-normal: rgb(254, 254, 254); /* color of default discord text */
+  }
