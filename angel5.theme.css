@@ -1,9 +1,9 @@
 /**
- * @name Genshin Impact / Hu Tao v.1
+ * @name Genshin Impact / Keqing v.4
  * @author TereruNaYo
  * @version auto updates
  * @description Theme was created in generator https://vsthemes.org/generator/
- * @source https://vsthemes.org/en/skins/discord/43855-genshin-impact-hu-tao-v1.html
+ * @source https://vsthemes.org/en/skins/discord/43671-genshin-impact-keqing-v4.html
  * @authorLink https://vsthemes.org/user/TereruNaYo/
  * @authorId 65141
 */
@@ -12,10 +12,10 @@
     --transparencycolor: 0,0,0;
     --transparencyalpha: 0.05;
     --messagetransparency: 0.35;
-    --guildchanneltransparency: 0.15;
+    --guildchanneltransparency: 0.2;
     --memberlistransparency: 0.05;
-    --accentcolor: 238,94,26;
-    --background: url("https://vsthemes.org/uploads/posts/2021-09/1632181197_1133597.webp");
+    --accentcolor: 142,36,238;
+    --background: url("https://vsthemes.org/uploads/posts/2021-09/1632142662_1111564-1.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
