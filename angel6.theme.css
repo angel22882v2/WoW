@@ -1,21 +1,21 @@
 /**
- * @name Genshin Impact Ganyu (Blue)
- * @author Systemd
+ * @name Genshin impact Kokomi
+ * @author snemak 666
  * @version auto updates
  * @description Theme was created in generator https://vsthemes.org/generator/
- * @source https://vsthemes.org/en/skins/discord/35863-genshin-impact-ganyu.html
- * @authorLink https://vsthemes.org/user/Systemd/
- * @authorId 2
+ * @source https://vsthemes.org/en/skins/discord/48934-genshin-impact-kokomi.html
+ * @authorLink https://vsthemes.org/user/snemak+666/
+ * @authorId 59611
 */
 @import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
 :root {
     --transparencycolor: 0,0,0;
-    --transparencyalpha: 0.1;
+    --transparencyalpha: 0.2;
     --messagetransparency: 0.4;
-    --guildchanneltransparency: 0.25;
-    --memberlistransparency: 0.05;
-    --accentcolor: 145,213,238;
-    --background: url("https://vsthemes.org/uploads/posts/2021-07/1626434820_qb-on-twitter.webp");
+    --guildchanneltransparency: 0.15;
+    --memberlistransparency: 0;
+    --accentcolor: 238,124,124;
+    --background: url("https://vsthemes.org/uploads/posts/2022-01/1641812719_thumb-1920-1176384.webp");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
