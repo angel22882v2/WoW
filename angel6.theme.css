@@ -24,4 +24,8 @@
     --backgroundsize: cover;
     --popoutsize: cover;
     --backdropsize: cover;
+    --window-padding: 5px;
+    --window-roundness: 20px;
+    --show-gift-gif-buttons: none;
+    --update-notice-1: none;
 }
