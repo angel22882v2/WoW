@@ -1,0 +1,53 @@
+/**
+* @name Keqing
+* @version 9.0.1 
+* @description Genshin Impact: Keqing
+* @author Kiisara
+* @Discord Server Where u can contact me:https://discord.gg/cAGFYz8H9m
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--background-image: url('https://sun9-43.userapi.com/impg/Obmy-TJk_DqKVZJ1VXrsBzfSbbNG2qjDRuQnlA/_D9DCFrNus8.jpg?size=960x1280&quality=95&sign=86bb88cdd99538076c51c1658c6c895f&type=album');
+  --background-image-size: cover;
+  --background-image-position: center center;
+  --popout-modal-image: url('https://cdn.discordapp.com/attachments/1120315948537225246/1133114766672531456/1679177513_chillywilly-club-p-ke-tsin-genshin-art-vokntakte-devushki-4.png');
+  --popout-modal-blur: 0px;
+  --popout-modal-brigthness: var(--right-brightness);
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://cdn-longterm.mee6.xyz/plugins/welcome/images/1120132710418096179/114c7bfc0cae30caf17f8f798795dc12820b9c205fc798c6b98681edd81d0e5a.gif');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.2;
+  --middle-brightness: 0.1;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0.3;
+  --gradient-primary: 148,187,233,100;
+  --gradient-secondary: 2,0,36,100;
+  --scrollbar-colour: rgb(126, 0, 189);
+  --link-colour: #9500ff;
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: 'Arial';
+  --window-padding: 5px;
+  --window-roundness: 20px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 42px;
+  --HSL-server-spacing: 15px;
+  --rs-small-spacing: 1px;
+  --rs-large-spacing: 3px;
+  --rs-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00f7ff;
+  --rs-idle-color: #b700ff;
+  --rs-dnd-color: #ff0000;
+  --rs-offline-color: #9500ff;
+  --rs-streaming-color: #9500ff;
+  --rs-invisible-color: #747f8d;
+  --text-normal: rgb(254, 254, 254); /* color of default discord text */
+  }
