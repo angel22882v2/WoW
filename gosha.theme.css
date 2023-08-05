@@ -4,16 +4,13 @@
 
 :root {
 
---background-image: url('');
 --background-image-blur: 0px;
 --background-image-opacity: 1;
 --background-image-size: cover;
 --background-image-position: center;
---popout-modal-image: url('');
 --popout-modal-blur: 20px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
---home-button-image: url('');
 --home-button-size: cover;
 --home-button-position: center;
 --serverlist-brightness: 0.48;
